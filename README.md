@@ -2,7 +2,21 @@
 
 # สมุดบันทึก
 
-ygfdhtgioeropyordjhiofdushejroyjihdfkjoh
+# เริ่มต้นพัฒนา streamlit
+1. clone จาก Thanyaporn29
+   git clone
+   
+2. deactivate
+   conda deactivate
+   
+3. สร้างสภาพแวดล้อมใหม่
+   python -m venv venv
+
+4. activate สภาพแวดล้อมใหม่
+   venv/scripts/activate
+
+5. ติดตั้ง streamlit
+   pip install streamlit
 
 สำหรับรายวิชา OOP
 
