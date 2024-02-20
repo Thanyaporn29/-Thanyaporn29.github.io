@@ -17,6 +17,18 @@
 
 6. ติดตั้ง streamlit
          -pip install streamlit
+   
+
+# คำสั่ง Run
+1. Run pyside
+   -python pyside6/app01.py
+
+2. Run streamlit
+   - streamlit run streamlit/app03.py
+
+3. #เข้าถึง folder ของเรา
+   - cd .\streamlit\
+     
 
 สำหรับรายวิชา OOP(https://github.com/Thanyaporn29/Thanyaporn29.github.io)
 
