@@ -2,6 +2,11 @@
 
 # สมุดบันทึก
 
+# วิธี clone จาก git
+1. เลือก folder ที่ต้องการ clone
+2. ctrl + shift + p
+3. วางลิ้งนี้ https://github.com/Thanyaporn29/Thanyaporn29.github.io.git
+
 # เริ่มต้นพัฒนา Streamlit
 1. clone จาก Thanyaporn29
          -git clone
